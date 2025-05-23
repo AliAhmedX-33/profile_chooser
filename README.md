@@ -1,2 +1,2 @@
-# profile_chooser
+# profile-chooser
 Selection page for qr code
